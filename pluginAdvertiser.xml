@@ -119,14 +119,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.csv">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.andrey4623.rainbowcsv" />
-              <option name="myPluginName" value="Rainbow CSV" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.dcx">
           <value>
             <plugin>
@@ -763,14 +755,6 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.pcss">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.postcss" />
-              <option name="myPluginName" value="PostCSS" />
             </plugin>
           </value>
         </entry>
